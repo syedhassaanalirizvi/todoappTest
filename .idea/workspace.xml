@@ -52,6 +52,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="reference.settingsDialog.application.dockerConsole" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -89,61 +90,11 @@
       <option name="presentableId" value="Default" />
       <updated>1632254436512</updated>
       <workItem from="1632254437728" duration="760000" />
-      <workItem from="1632255299973" duration="5767000" />
+      <workItem from="1632255299973" duration="6141000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state width="588" height="252" key="GridCell.Tab.0.bottom" timestamp="1632257727552">
-      <screen x="0" y="25" width="1440" height="806" />
-    </state>
-    <state width="588" height="252" key="GridCell.Tab.0.bottom/0.25.1440.806@0.25.1440.806" timestamp="1632257727552" />
-    <state width="588" height="252" key="GridCell.Tab.0.center" timestamp="1632257727551">
-      <screen x="0" y="25" width="1440" height="806" />
-    </state>
-    <state width="588" height="252" key="GridCell.Tab.0.center/0.25.1440.806@0.25.1440.806" timestamp="1632257727551" />
-    <state width="588" height="252" key="GridCell.Tab.0.left" timestamp="1632257727551">
-      <screen x="0" y="25" width="1440" height="806" />
-    </state>
-    <state width="588" height="252" key="GridCell.Tab.0.left/0.25.1440.806@0.25.1440.806" timestamp="1632257727551" />
-    <state width="588" height="252" key="GridCell.Tab.0.right" timestamp="1632257727551">
-      <screen x="0" y="25" width="1440" height="806" />
-    </state>
-    <state width="588" height="252" key="GridCell.Tab.0.right/0.25.1440.806@0.25.1440.806" timestamp="1632257727551" />
-    <state width="588" height="252" key="GridCell.Tab.1.bottom" timestamp="1632257727553">
-      <screen x="0" y="25" width="1440" height="806" />
-    </state>
-    <state width="588" height="252" key="GridCell.Tab.1.bottom/0.25.1440.806@0.25.1440.806" timestamp="1632257727553" />
-    <state width="588" height="252" key="GridCell.Tab.1.center" timestamp="1632257727552">
-      <screen x="0" y="25" width="1440" height="806" />
-    </state>
-    <state width="588" height="252" key="GridCell.Tab.1.center/0.25.1440.806@0.25.1440.806" timestamp="1632257727552" />
-    <state width="588" height="252" key="GridCell.Tab.1.left" timestamp="1632257727552">
-      <screen x="0" y="25" width="1440" height="806" />
-    </state>
-    <state width="588" height="252" key="GridCell.Tab.1.left/0.25.1440.806@0.25.1440.806" timestamp="1632257727552" />
-    <state width="588" height="252" key="GridCell.Tab.1.right" timestamp="1632257727552">
-      <screen x="0" y="25" width="1440" height="806" />
-    </state>
-    <state width="588" height="252" key="GridCell.Tab.1.right/0.25.1440.806@0.25.1440.806" timestamp="1632257727552" />
-    <state width="588" height="252" key="GridCell.Tab.2.bottom" timestamp="1632257727554">
-      <screen x="0" y="25" width="1440" height="806" />
-    </state>
-    <state width="588" height="252" key="GridCell.Tab.2.bottom/0.25.1440.806@0.25.1440.806" timestamp="1632257727554" />
-    <state width="588" height="252" key="GridCell.Tab.2.center" timestamp="1632257727553">
-      <screen x="0" y="25" width="1440" height="806" />
-    </state>
-    <state width="588" height="252" key="GridCell.Tab.2.center/0.25.1440.806@0.25.1440.806" timestamp="1632257727553" />
-    <state width="588" height="252" key="GridCell.Tab.2.left" timestamp="1632257727553">
-      <screen x="0" y="25" width="1440" height="806" />
-    </state>
-    <state width="588" height="252" key="GridCell.Tab.2.left/0.25.1440.806@0.25.1440.806" timestamp="1632257727553" />
-    <state width="588" height="252" key="GridCell.Tab.2.right" timestamp="1632257727554">
-      <screen x="0" y="25" width="1440" height="806" />
-    </state>
-    <state width="588" height="252" key="GridCell.Tab.2.right/0.25.1440.806@0.25.1440.806" timestamp="1632257727554" />
   </component>
 </project>
