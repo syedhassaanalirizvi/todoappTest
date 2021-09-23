@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4b103ca3-0887-4535-b9be-e20bf7b653a4" name="Default Changelist" comment="" />
+    <list default="true" id="4b103ca3-0887-4535-b9be-e20bf7b653a4" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/app.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -57,17 +60,6 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager" selected="JavaScript Debug.index.html">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/TodoApp/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
@@ -91,6 +83,9 @@
       <updated>1632254436512</updated>
       <workItem from="1632254437728" duration="760000" />
       <workItem from="1632255299973" duration="6141000" />
+      <workItem from="1632343003480" duration="5829000" />
+      <workItem from="1632441476514" duration="40000" />
+      <workItem from="1632441536181" duration="11000" />
     </task>
     <servers />
   </component>
