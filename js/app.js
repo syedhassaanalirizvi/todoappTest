@@ -28,7 +28,7 @@ window.addEventListener('DOMContentLoaded', (event) => {
         }
 
     })
-//listener2/hkfs
+//listener2/
     function createItem(val){
         const item = document.createElement('li');
         const span = document.createElement('span');
